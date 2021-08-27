@@ -8,5 +8,11 @@
     max-width: 900px;
     margin: 0 auto;
     padding: 0;
-    padding-bottom: 30px;    
+    padding-bottom: 30px;
+}
+
+.flexCol--product-main {
+    max-width: 450px;
+    background-color:#1b2429;
+    border-radius: 10px;
 }
